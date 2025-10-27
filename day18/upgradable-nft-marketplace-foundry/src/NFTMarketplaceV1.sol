@@ -18,6 +18,8 @@ contract NFTMarketplaceV1 is Initializable, OwnableUpgradeable {
     event NFTListed(address indexed nftAddress, uint256 indexed tokenId, address indexed seller, uint256 price);
     event NFTSold(address indexed nftAddress, uint256 indexed tokenId, address indexed buyer, uint256 price);
 
+
+    
     /// @custom:oz-upgrades-unsafe-allow constructor
     constructor() {
         _disableInitializers();
