@@ -1,0 +1,6 @@
+{
+  "/character-page/page": "app/character-page/page.js",
+  "/mint-page/page": "app/mint-page/page.js",
+  "/not-found": "app/not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

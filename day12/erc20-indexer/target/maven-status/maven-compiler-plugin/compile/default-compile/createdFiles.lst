@@ -1,0 +1,3 @@
+com\erc20\indexer\repository\TokenTransferRepository.class
+com\erc20\indexer\entity\TokenTransfer.class
+com\erc20\indexer\entity\Token.class
